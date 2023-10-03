@@ -11,9 +11,8 @@ Running flatpak applications on Windows has never been easier. Now with WSL and 
 
 Xming for Windows
 
-```bash
  https://sourceforge.net/projects/xming/
-```
+
 - Install
 - Run the program.
 
