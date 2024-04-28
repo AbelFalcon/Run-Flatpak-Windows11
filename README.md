@@ -18,7 +18,8 @@ Xming for Windows
 
 ## WSL Setup
 
-- Open "WSL Ubuntu" 
+- Open "WSL Ubuntu"
+> Actually. You can use other distros. I have bought that works on Ubuntu and Fedora (Microsoft Store
 - Paste the following command
 
 ```bash
@@ -34,7 +35,7 @@ Xming for Windows
 - Install Flatpak
 
 ```bash
- sudo apt install Flatpak
+ sudo apt install flatpak
 ```
 
 - Add Flatpak Flathub repo
