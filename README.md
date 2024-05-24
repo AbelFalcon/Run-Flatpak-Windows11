@@ -1,11 +1,24 @@
 
 # Running Flatpak Apps in Windows 10/11
 
-Running flatpak applications on Windows has never been easier. Now with WSL and Xming you can do it in seconds. 
 
 <p align="center">
   <img src="https://i.imgur.com/DFz8qMa.png"/>
 </p>
+
+## Introduction
+
+Flatpak is a system for building, distributing, and running sandboxed desktop applications on Linux. However, you might want to run Flatpak apps on Windows 10/11 for various reasons, including testing, development, or simply using your favorite Linux applications. This guide will show you how to do that.
+
+## Prerequisites
+
+Before you start, ensure you have the following:
+- A computer running Windows 10 or Windows 11
+- Administrator privileges
+- [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install) installed
+- A Linux distribution installed via WSL (e.g., Ubuntu)
+
+## Step-by-Step Guide
 
 ## Setup Xming
 
