@@ -73,3 +73,11 @@ Run App
 ```bash
  flatpak run io.github.alainm23.planify
 ```
+
+# Troubleshooting
+
+If you encounter any issues, consider the following steps:
+
+- Ensure WSL is properly installed and running
+- Check for updates and upgrade your Linux distribution
+- Verify the Flatpak installation and the Flathub repository addition
