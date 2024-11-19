@@ -26,7 +26,7 @@ Xming for Windows
 
  https://sourceforge.net/projects/xming/
 
-- Install
+- Install [(In-depth tutorial)](https://www.uwyo.edu/data-science/resources/knowledge-base/x11-with-windows-subsystem-for-linux.html)
 - Run the program.
 
 ## WSL Setup
