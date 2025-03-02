@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/DFz8qMa.png"/>
 </p>
 
-🪧 (Own Ad) How create Shortcut to Suspend Windows 11: [My Github Tuturial](https://github.com/AbelFalcon/Shortcut-to-Suspend-Windows11).
+🪧 (Own Ad) How create Shortcut to Suspend Windows 11: [My Github Tuturial](https://github.com/AbelFalcon/How-to-Create-a-Shortcut-to-Quickly-Sleep-Your-PC-on-Windows-10-11).
 
 ## Introduction
 
